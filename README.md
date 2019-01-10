@@ -3,6 +3,7 @@ Implement the following automated scenario using Selenium WebDriver
 
 
 Test run via command line:
+
 Install JDK 1.8
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
