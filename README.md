@@ -16,4 +16,5 @@ http://www.apache-maven.ru/install.html
 Download the project
 
 Open cmd and go to directory with project
+
 Run command "mvn test"
